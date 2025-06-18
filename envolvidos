@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>História da Segunda Guerra Mundial</title>
+  <link rel="stylesheet" type="text/css" href="styles.css"/>
+</head>
+<body>
+
+  <div class="container">
+    <h1>Segunda Guerra Mundial</h1>
+
+    <div class="section">
+      <p class="intro">
+        Introdução
+      </p>
+
+      <h2>O Contexto Histórico</h2>
+      <p class="content">
+       Contexto Histrórico
+      </p>
+
+      <h2>Envolvidos e suas motivações</h2>
+      <p class="content">
+        A Segunda Guerra Mundial (1939-1945) envolveu duas grandes alianças: as Potências do Eixo, lideradas pela Alemanha de Hitler, a Itália de Mussolini e o Japão de Hirohito, e os Aliados, compostos por países como o Reino Unido, a União Soviética, os Estados Unidos, a França e a China. As Potências do Eixo buscavam expandir seus territórios e impor suas ideologias, com a Alemanha visando dominar a Europa, a Itália querendo restaurar um Império Romano e o Japão buscando recursos naturais na Ásia. Já os Aliados lutavam para defender suas soberanias e impedir a expansão do fascismo e do militarismo, com destaque para a defesa da democracia e dos direitos humanos. A guerra começou com a invasão da Polônia pela Alemanha em 1939 e se espalhou por todo o mundo, resultando na derrota das potências do Eixo em 1945, após eventos como o ataque a Pearl Harbor, a invasão da União Soviética pela Alemanha e a entrada dos EUA no conflito.
+      </p>
+
+      <h2>Principais batalhas</h2>
+      <p class="content">
+        Consequências e impaco
+      </p>
+
+      <h2>O papel dos EUA</h2>
+      <p class="content">
+        Consequências e impaco
+      </p>
+
+      <h2>O papel da URSS</h2>
+      <p class="content">
+        Consequências e impaco
+      </p>
+
+      <h2>Hiroshimna e Nagasaki</h2>
+      <p class="content">
+        Consequências e impaco
+      </p>
+
+      <h2>Consequências e Impacto</h2>
+      <p class="content">
+        Consequências e impaco
+      </p>
+    </div>
+
+    <!-- Imagem sobre as Grandes Navegações -->
+    <div class="section">
+      <h2>Segunda Guerra Mundial</h2>
+      <p class="content">
+       Texto sobre a segunda guerra.
+      </p>
+      <img src="segundaGuerra.png" alt="Grandes Navegações" class="image">
+    </div>
+
+    <!-- Tabela com países da América e datas de independência -->
+    <div class="section">
+      
+    </div>
+
+    <!-- Rodapé -->
+    <div class="footer">
+      <p>Exercício realizado em sala de aula</p>
+    </div>
+  </div>
+
+</body>
+</html>
